@@ -1,6 +1,6 @@
-#This is my first git project
+# This is my first git project
 
-##Describtion
+## Describtion
 
 This is a testing of git.
 
